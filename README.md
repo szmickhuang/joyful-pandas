@@ -200,4 +200,5 @@ openpyxl：3.0.3
 
 #### 七、推广
 
-<img src="picture/qrcode.jpeg" height="450px" width="400px"/>
+
+<img src="https://avatars3.githubusercontent.com/u/12622452?s=120&v=4" height="450px" width="400px"/>
